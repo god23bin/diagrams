@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T15:27:40.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.8.8" etag="UHMkWUJQfdSeUrot0mgR" type="github"><diagram id="SS9lbgkfC-KeZYUltQnV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-02T15:51:11.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="qogUmW_6F3eSysU8lqH6" version="15.8.8" type="github">
+  <diagram id="SS9lbgkfC-KeZYUltQnV" name="第 1 页">
+    <mxGraphModel dx="597" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-2" target="LpI1GiE3s5l9tn5SJo0W-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-2" target="LpI1GiE3s5l9tn5SJo0W-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-17" value="如何解？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LpI1GiE3s5l9tn5SJo0W-14">
+          <mxGeometry x="-0.3745" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-2" value="非齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-3" target="LpI1GiE3s5l9tn5SJo0W-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-3" value="向量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-4" target="LpI1GiE3s5l9tn5SJo0W-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-4" value="β能否由α1，α2...αs线性表示？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="90" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-5" target="LpI1GiE3s5l9tn5SJo0W-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-5" value="直接竖下来，解&lt;b&gt;非齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-6" target="LpI1GiE3s5l9tn5SJo0W-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-6" target="LpI1GiE3s5l9tn5SJo0W-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-6" value="如何说明有解？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="440" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-7" target="LpI1GiE3s5l9tn5SJo0W-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-7" value="有解说明可以线性表示&lt;br&gt;无解说明不可以线性表示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-15" value="写出矩阵，进行行变换，变成行阶梯，可以化成行最简" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="210" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-18" value="r(系数矩阵)=r(增广矩阵)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="390" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-19" value="能写出解的结构，就说明有解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="490" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.56;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-22" target="LpI1GiE3s5l9tn5SJo0W-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-22" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="90" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-23" target="LpI1GiE3s5l9tn5SJo0W-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-23" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="150" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-26" target="LpI1GiE3s5l9tn5SJo0W-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-28" value="如何解？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LpI1GiE3s5l9tn5SJo0W-27">
+          <mxGeometry x="-0.1772" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-26" target="LpI1GiE3s5l9tn5SJo0W-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-26" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="210" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.398;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-31" target="LpI1GiE3s5l9tn5SJo0W-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-31" value="根据定义可知，有非0解的话，则说明相关&lt;br&gt;没有则无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="300" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.722;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-34" target="LpI1GiE3s5l9tn5SJo0W-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-34" target="LpI1GiE3s5l9tn5SJo0W-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-34" value="如何说明有非0解？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="827" y="390" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-35" value="r(A) &amp;lt; 未知数个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="350" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-38" value="如果是n个方程n个未知数，则用克拉默法则，想要有非零解，那么|A|=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="430" width="390" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
