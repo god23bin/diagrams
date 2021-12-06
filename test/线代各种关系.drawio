@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T01:47:58.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ZBThqQHCY3nAtLA4EA-f" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T03:42:07.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="EJXsWJGFvVDrHwSHArp6" version="15.8.9" type="github">
   <diagram id="SS9lbgkfC-KeZYUltQnV" name="第 1 页">
     <mxGraphModel dx="866" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
         <mxCell id="LpI1GiE3s5l9tn5SJo0W-15" value="写出矩阵，进行行变换，变成行阶梯，可以化成行最简" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#eeeeee;" parent="1" vertex="1">
           <mxGeometry x="505" y="210" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LpI1GiE3s5l9tn5SJo0W-18" value="r(系数矩阵)=r(增广矩阵)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+        <mxCell id="LpI1GiE3s5l9tn5SJo0W-18" value="r(系数矩阵)=r(增广矩阵)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="465" y="390" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpI1GiE3s5l9tn5SJo0W-19" value="能写出解的结构，就说明有解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
@@ -112,7 +112,7 @@
         <mxCell id="LpI1GiE3s5l9tn5SJo0W-38" value="如果是n个方程n个未知数，则用克拉默法则，想要有非零解，那么|A|=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1020" y="430" width="390" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cm-5JKgqkUC_MWqmVBxb-1" value="方程少，未知数多，也有非0解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="cm-5JKgqkUC_MWqmVBxb-1" value="方程少，未知数多，也有非0解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#C73500;fillColor=#fa6800;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1019" y="388" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JAhtHmVWuC-FFCjWr7xX-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-4" target="JAhtHmVWuC-FFCjWr7xX-58" edge="1">
@@ -385,11 +385,11 @@
         <mxCell id="JAhtHmVWuC-FFCjWr7xX-62" value="如何说明有非0解？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="827" y="390" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-63" value="r(A) &amp;lt; 未知数个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-63" value="r(A) &amp;lt; 未知数个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#C73500;fillColor=#fa6800;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1020" y="350" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-64" value="如果是n个方程n个未知数，则用克拉默法则，想要有非零解，那么|A|=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="430" width="390" height="20" as="geometry" />
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-64" value="如果是n个方程n个未知数，则用克拉默法则，想要有非零解，那么|A|=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#C73500;fillColor=#fa6800;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1015" y="430" width="400" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JAhtHmVWuC-FFCjWr7xX-67" value="n+1个n维向量，一定相关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;" parent="1" vertex="1">
           <mxGeometry x="960" y="60" width="150" height="20" as="geometry" />
@@ -413,6 +413,51 @@
         </mxCell>
         <mxCell id="eBjxB_eMB4qw-DZoMXB1-5" value="齐次有无穷多解，那么解向量有n-r(A)这么多个" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1080" y="170" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-13" target="eBjxB_eMB4qw-DZoMXB1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-13" target="eBjxB_eMB4qw-DZoMXB1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-13" value="有解，比如" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="475" y="-48" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-14" target="eBjxB_eMB4qw-DZoMXB1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-14" value="唯一解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-15" target="eBjxB_eMB4qw-DZoMXB1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-15" value="无穷多解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="790" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-16" target="eBjxB_eMB4qw-DZoMXB1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-16" value="两个方程两个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="619" y="-90" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-21" target="eBjxB_eMB4qw-DZoMXB1-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-21" value="两个方程三个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="619" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-25" value="无穷多解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="790" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-26" value="两个方程三个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="619" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-27" value="两个方程两个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="619" y="-90" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-28" value="唯一解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780" y="-90" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
