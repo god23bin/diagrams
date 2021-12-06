@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T04:38:43.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="YbawtECRmFhAY-FmfboR" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T07:50:00.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ta5Zid5pp_hpz2yRHG1V" version="15.9.1" type="github">
   <diagram id="SS9lbgkfC-KeZYUltQnV" name="第 1 页">
     <mxGraphModel dx="1693" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
         <mxCell id="LpI1GiE3s5l9tn5SJo0W-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LpI1GiE3s5l9tn5SJo0W-5" target="LpI1GiE3s5l9tn5SJo0W-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LpI1GiE3s5l9tn5SJo0W-5" target="eBjxB_eMB4qw-DZoMXB1-30">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LpI1GiE3s5l9tn5SJo0W-5" target="eBjxB_eMB4qw-DZoMXB1-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LpI1GiE3s5l9tn5SJo0W-5" value="直接竖下来，解&lt;b&gt;非齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
@@ -376,7 +376,7 @@
         <mxCell id="JAhtHmVWuC-FFCjWr7xX-59" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="690" y="150" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-60" target="eBjxB_eMB4qw-DZoMXB1-4">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JAhtHmVWuC-FFCjWr7xX-60" target="eBjxB_eMB4qw-DZoMXB1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAhtHmVWuC-FFCjWr7xX-60" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
@@ -397,73 +397,79 @@
         <mxCell id="JAhtHmVWuC-FFCjWr7xX-67" value="n+1个n维向量，一定相关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;" parent="1" vertex="1">
           <mxGeometry x="960" y="60" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.402;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-1" target="JAhtHmVWuC-FFCjWr7xX-63">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.402;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="eBjxB_eMB4qw-DZoMXB1-1" target="JAhtHmVWuC-FFCjWr7xX-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-3" value="用秩来证，r(A)=1&amp;lt;未知数2个，即2列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="eBjxB_eMB4qw-DZoMXB1-2">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-3" value="用秩来证，r(A)=1&amp;lt;未知数2个，即2列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="eBjxB_eMB4qw-DZoMXB1-2" vertex="1" connectable="0">
           <mxGeometry x="-0.1185" y="1" relative="1" as="geometry">
             <mxPoint x="21" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-1" value="比如有两个坐标未知的向量，题目要求证明两个向量相关，那么如何证相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-1" value="比如有两个坐标未知的向量，题目要求证明两个向量相关，那么如何证相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1435" y="210" width="420" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-4" target="eBjxB_eMB4qw-DZoMXB1-5">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eBjxB_eMB4qw-DZoMXB1-4" target="eBjxB_eMB4qw-DZoMXB1-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-4" value="定理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-4" value="定理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1000" y="210" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-5" value="齐次有无穷多解，那么解向量有n-r(A)这么多个" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-5" value="齐次有无穷多解，那么解向量有n-r(A)这么多个" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1080" y="170" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-13" target="eBjxB_eMB4qw-DZoMXB1-16">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eBjxB_eMB4qw-DZoMXB1-13" target="eBjxB_eMB4qw-DZoMXB1-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-13" target="eBjxB_eMB4qw-DZoMXB1-21">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eBjxB_eMB4qw-DZoMXB1-13" target="eBjxB_eMB4qw-DZoMXB1-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-13" value="有解，比如" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-13" value="有解，比如" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="475" y="-48" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-14" target="eBjxB_eMB4qw-DZoMXB1-16">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBjxB_eMB4qw-DZoMXB1-14" target="eBjxB_eMB4qw-DZoMXB1-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-14" value="唯一解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-14" value="唯一解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" parent="1" vertex="1">
           <mxGeometry x="780" y="-90" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-15" target="eBjxB_eMB4qw-DZoMXB1-21">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBjxB_eMB4qw-DZoMXB1-15" target="eBjxB_eMB4qw-DZoMXB1-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-15" value="无穷多解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-15" value="无穷多解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" parent="1" vertex="1">
           <mxGeometry x="790" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-16" target="eBjxB_eMB4qw-DZoMXB1-14">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBjxB_eMB4qw-DZoMXB1-16" target="eBjxB_eMB4qw-DZoMXB1-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-16" value="两个方程两个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-16" value="两个方程两个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" parent="1" vertex="1">
           <mxGeometry x="619" y="-90" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-21" target="eBjxB_eMB4qw-DZoMXB1-15">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBjxB_eMB4qw-DZoMXB1-21" target="eBjxB_eMB4qw-DZoMXB1-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-21" value="两个方程三个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-21" value="两个方程三个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffcccc;" parent="1" vertex="1">
           <mxGeometry x="619" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-25" value="无穷多解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-25" value="无穷多解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="790" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-26" value="两个方程三个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-26" value="两个方程三个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="619" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-27" value="两个方程两个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-27" value="两个方程两个未知数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="619" y="-90" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-28" value="唯一解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-28" value="唯一解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="780" y="-90" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eBjxB_eMB4qw-DZoMXB1-30" value="向量组1，能由向量组2表示，那么解方程组，多个增广矩阵可以拼成一个大的增广矩阵" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3A5431;fillColor=#6d8764;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-30" value="向量组1，能由向量组2表示，那么解方程组，多个增广矩阵可以拼成一个大的增广矩阵" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3A5431;fillColor=#6d8764;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-200" y="150" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W7IWcturcMLCH02oGyIx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W7IWcturcMLCH02oGyIx-1" target="JAhtHmVWuC-FFCjWr7xX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7IWcturcMLCH02oGyIx-1" value="向量之间加减，问这种向量是否相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="340" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
