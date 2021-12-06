@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T13:39:57.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="yIvYVo1ENWUoIw7NWm9U" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-06T01:47:58.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ZBThqQHCY3nAtLA4EA-f" version="15.8.9" type="github">
   <diagram id="SS9lbgkfC-KeZYUltQnV" name="第 1 页">
-    <mxGraphModel dx="722" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,13 +115,13 @@
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-1" value="方程少，未知数多，也有非0解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1019" y="388" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cm-5JKgqkUC_MWqmVBxb-4" target="JAhtHmVWuC-FFCjWr7xX-58">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-4" target="JAhtHmVWuC-FFCjWr7xX-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-4" value="n+1个n维向量，一定相关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="960" y="60" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-65" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cm-5JKgqkUC_MWqmVBxb-5" target="JAhtHmVWuC-FFCjWr7xX-58">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-65" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-5" target="JAhtHmVWuC-FFCjWr7xX-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-5" value="n个n维向量相关的话，那么|A|=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;" parent="1" vertex="1">
@@ -131,19 +131,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-6" value="一个向量相关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="60" width="90" height="20" as="geometry" />
+          <mxGeometry x="935" y="-200" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-7" target="cm-5JKgqkUC_MWqmVBxb-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-7" value="这个向量为0向量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1365" y="100" width="110" height="20" as="geometry" />
+          <mxGeometry x="1080" y="-160" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-12" target="cm-5JKgqkUC_MWqmVBxb-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-12" value="两个向量相关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="120" width="90" height="20" as="geometry" />
+          <mxGeometry x="935" y="-140" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-13" target="cm-5JKgqkUC_MWqmVBxb-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -152,25 +152,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-13" value="这两个向量平行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1375" y="160" width="100" height="20" as="geometry" />
+          <mxGeometry x="1090" y="-100" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-14" target="cm-5JKgqkUC_MWqmVBxb-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-14" value="三个向量相关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="180" width="90" height="20" as="geometry" />
+          <mxGeometry x="935" y="-80" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-15" target="cm-5JKgqkUC_MWqmVBxb-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-15" value="这三个向量共面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="230" width="100" height="20" as="geometry" />
+          <mxGeometry x="1095" y="-30" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-20" target="cm-5JKgqkUC_MWqmVBxb-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-20" value="两个向量坐标成比例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="160" width="120" height="20" as="geometry" />
+          <mxGeometry x="1245" y="-100" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.023;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-24" target="cm-5JKgqkUC_MWqmVBxb-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -199,7 +199,7 @@
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-31" target="cm-5JKgqkUC_MWqmVBxb-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cm-5JKgqkUC_MWqmVBxb-31" target="JAhtHmVWuC-FFCjWr7xX-22">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cm-5JKgqkUC_MWqmVBxb-31" target="JAhtHmVWuC-FFCjWr7xX-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-31" value="r(A)=n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
@@ -211,37 +211,37 @@
         <mxCell id="cm-5JKgqkUC_MWqmVBxb-34" value="如果是n个方程n个未知数，则用克拉默法则，想要有唯一0解，那么|A|≠0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="1190" y="602" width="400" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.508;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-1" target="cm-5JKgqkUC_MWqmVBxb-24">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.508;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="JAhtHmVWuC-FFCjWr7xX-1" target="cm-5JKgqkUC_MWqmVBxb-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-1" value="不同特征值的特征向量之间是线性无关的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-1" value="不同特征值的特征向量之间是线性无关的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="635" y="650" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-3" value="特征向量是不为0的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-3" value="特征向量是不为0的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="745" y="710" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.675;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-4" target="cm-5JKgqkUC_MWqmVBxb-24">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.675;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JAhtHmVWuC-FFCjWr7xX-4" target="cm-5JKgqkUC_MWqmVBxb-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-4" target="JAhtHmVWuC-FFCjWr7xX-8">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JAhtHmVWuC-FFCjWr7xX-4" target="JAhtHmVWuC-FFCjWr7xX-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-4" value="有α1，α2，α3无关，有Aα1，Aα2，α3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-4" value="有α1，α2，α3无关，有Aα1，Aα2，α3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="925" y="650" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-8" target="JAhtHmVWuC-FFCjWr7xX-10">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JAhtHmVWuC-FFCjWr7xX-8" target="JAhtHmVWuC-FFCjWr7xX-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-8" value="藏着相似" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-8" value="藏着相似" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="1010" y="720" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-10" value="拼成A(α1,α2,α3)，然后拿出(α1,α2,α3) × 一个矩阵B&lt;br&gt;令P=(α1,α2,α3)，B行列式不等于0，B可逆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-10" value="拼成A(α1,α2,α3)，然后拿出(α1,α2,α3) × 一个矩阵B&lt;br&gt;令P=(α1,α2,α3)，B行列式不等于0，B可逆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1150" y="715" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-12" target="cm-5JKgqkUC_MWqmVBxb-31">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JAhtHmVWuC-FFCjWr7xX-12" target="cm-5JKgqkUC_MWqmVBxb-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-12" target="JAhtHmVWuC-FFCjWr7xX-10">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JAhtHmVWuC-FFCjWr7xX-12" target="JAhtHmVWuC-FFCjWr7xX-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1690" y="500" />
@@ -250,146 +250,169 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-12" value="证n个向量线性无关，相当于证n阶矩阵秩为n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-12" value="证n个向量线性无关，相当于证n阶矩阵秩为n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1365" y="547" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-16" target="JAhtHmVWuC-FFCjWr7xX-17">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JAhtHmVWuC-FFCjWr7xX-16" target="JAhtHmVWuC-FFCjWr7xX-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-16" value="（β1，β2，β3） =（α1，α2，α3）× 矩阵C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-16" value="（β1，β2，β3） =（α1，α2，α3）× 矩阵C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1435" y="400" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-17" target="JAhtHmVWuC-FFCjWr7xX-21">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JAhtHmVWuC-FFCjWr7xX-17" target="JAhtHmVWuC-FFCjWr7xX-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-17" value="（α1，α2，α3）线性无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-17" value="（α1，α2，α3）线性无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1620" y="460" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-21" target="JAhtHmVWuC-FFCjWr7xX-22">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JAhtHmVWuC-FFCjWr7xX-21" target="JAhtHmVWuC-FFCjWr7xX-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-21" value="（β1，β2，β3）线性无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-21" value="（β1，β2，β3）线性无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1435" y="460" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-22" target="JAhtHmVWuC-FFCjWr7xX-21">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JAhtHmVWuC-FFCjWr7xX-22" target="JAhtHmVWuC-FFCjWr7xX-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-22" value="C可逆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-22" value="C可逆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1315" y="480" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-28" value="C可逆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-28" value="C可逆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1315" y="480" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-29" value="（β1，β2，β3）线性无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-29" value="（β1，β2，β3）线性无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1435" y="460" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-30" value="β能否由α1，α2...αs线性表示？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-30" value="β能否由α1，α2...αs线性表示？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="465" y="90" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-31" value="非齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-31" value="非齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="330" y="210" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-32" value="有解说明可以线性表示&lt;br&gt;无解说明不可以线性表示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-32" value="有解说明可以线性表示&lt;br&gt;无解说明不可以线性表示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="300" y="310" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-33" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-33" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="700" y="90" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-34" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-34" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="150" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-35" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-35" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="700" y="90" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-36" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-36" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="150" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-37" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-37" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-38" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-38" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="700" y="90" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-39" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-39" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="150" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-40" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-40" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-41" value="根据定义可知，有非0解的话，则说明相关&lt;br&gt;没有则无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-41" value="根据定义可知，有非0解的话，则说明相关&lt;br&gt;没有则无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="300" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-42" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-42" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="700" y="90" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-43" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-43" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="150" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-44" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-44" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-45" value="根据定义可知，有非0解的话，则说明相关&lt;br&gt;没有则无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-45" value="根据定义可知，有非0解的话，则说明相关&lt;br&gt;没有则无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="300" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-46" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-46" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="700" y="90" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-47" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-47" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="150" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-48" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-48" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-49" value="根据定义可知，有非0解的话，则说明相关&lt;br&gt;没有则无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-49" value="根据定义可知，有非0解的话，则说明相关&lt;br&gt;没有则无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="300" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-50" value="如何说明有非0解？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-50" value="如何说明有非0解？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="827" y="390" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-51" value="r(A) &amp;lt; 未知数个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-51" value="r(A) &amp;lt; 未知数个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1020" y="350" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-52" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-52" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="700" y="90" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-53" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-53" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="150" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-54" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-54" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-55" value="根据定义可知，有非0解的话，则说明相关&lt;br&gt;没有则无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-55" value="根据定义可知，有非0解的话，则说明相关&lt;br&gt;没有则无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="300" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-56" value="如何说明有非0解？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-56" value="如何说明有非0解？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="827" y="390" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-57" value="r(A) &amp;lt; 未知数个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-57" value="r(A) &amp;lt; 未知数个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1020" y="350" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-58" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-58" value="α1，α2...αs是否线性相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="700" y="90" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-59" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-59" value="直接竖下来，解&lt;b&gt;齐次&lt;/b&gt;方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="690" y="150" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-60" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JAhtHmVWuC-FFCjWr7xX-60" target="eBjxB_eMB4qw-DZoMXB1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-60" value="齐次方程组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-61" value="根据定义可知，有非0解的话，则说明相关&lt;br&gt;没有则无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-61" value="根据定义可知，有非0解的话，则说明相关&lt;br&gt;没有则无关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="800" y="300" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-62" value="如何说明有非0解？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-62" value="如何说明有非0解？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="827" y="390" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-63" value="r(A) &amp;lt; 未知数个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-63" value="r(A) &amp;lt; 未知数个数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1020" y="350" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-64" value="如果是n个方程n个未知数，则用克拉默法则，想要有非零解，那么|A|=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-64" value="如果是n个方程n个未知数，则用克拉默法则，想要有非零解，那么|A|=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1020" y="430" width="390" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JAhtHmVWuC-FFCjWr7xX-67" value="n+1个n维向量，一定相关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="1">
+        <mxCell id="JAhtHmVWuC-FFCjWr7xX-67" value="n+1个n维向量，一定相关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;" parent="1" vertex="1">
           <mxGeometry x="960" y="60" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.402;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-1" target="JAhtHmVWuC-FFCjWr7xX-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-3" value="用秩来证，r(A)=1&amp;lt;未知数2个，即2列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="eBjxB_eMB4qw-DZoMXB1-2">
+          <mxGeometry x="-0.1185" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-1" value="比如有两个坐标未知的向量，题目要求证明两个向量相关，那么如何证相关？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1435" y="210" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBjxB_eMB4qw-DZoMXB1-4" target="eBjxB_eMB4qw-DZoMXB1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-4" value="定理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eBjxB_eMB4qw-DZoMXB1-5" value="齐次有无穷多解，那么解向量有n-r(A)这么多个" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#005700;fillColor=#008a00;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1080" y="170" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
