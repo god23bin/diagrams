@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T12:35:34.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="8_PxTuZD0rLoc05D1s6t" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T12:41:04.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="cKDrOg7O3XQlQ9Ina_6R" version="16.5.2" type="github">
   <diagram id="sZufGQy3N4kwTPqAB__Q" name="第 1 页">
-    <mxGraphModel dx="866" dy="921" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1266" dy="921" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,6 +234,15 @@
         </mxCell>
         <mxCell id="setwmyMb34dvfFIo67XE-59" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=32;fillColor=#f2992b;strokeColor=#9673a6;gradientColor=#f2992b;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="120" y="591" width="18" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="setwmyMb34dvfFIo67XE-60" value="" style="shape=actor;whiteSpace=wrap;html=1;fontSize=32;fillColor=#dae8fc;gradientDirection=east;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-182" y="147" width="75" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="setwmyMb34dvfFIo67XE-62" value="用户" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-174.5" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="setwmyMb34dvfFIo67XE-63" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=32;fontColor=#000000;fillColor=#dae8fc;gradientColor=#ab73c7;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="179.25" width="87" height="26.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
