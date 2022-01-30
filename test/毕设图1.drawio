@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T16:11:59.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="GjLPOYQ7FXm3m2cO582q" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T16:15:09.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="CAgU5-qpa33X5FuIXmYT" version="16.5.2" type="github">
   <diagram id="DGHI4IdfCPbIkz-FcZ3y" name="第 1 页">
-    <mxGraphModel dx="1637" dy="744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,16 +25,16 @@
           <mxGeometry x="-41.5" y="577" width="102" height="86" as="geometry" />
         </mxCell>
         <mxCell id="EmAf7KWgvtEIyddOnDGJ-36" value="自动化部署" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=23;strokeWidth=3;fillColor=#dae8fc;align=left;verticalAlign=top;spacingTop=15;spacing=2;spacingLeft=15;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="256" y="871" width="754" height="259" as="geometry" />
+          <mxGeometry x="916" y="1108" width="754" height="259" as="geometry" />
         </mxCell>
         <mxCell id="EmAf7KWgvtEIyddOnDGJ-37" value="Docker" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=23;image=img/lib/mscae/Docker.svg;rounded=1;dashed=1;strokeWidth=3;fillColor=none;gradientColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="948.5" width="125.62" height="103" as="geometry" />
+          <mxGeometry x="1215" y="1185.5" width="125.62" height="103" as="geometry" />
         </mxCell>
         <mxCell id="EmAf7KWgvtEIyddOnDGJ-38" value="Jenkins" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/jenkins-128.png;rounded=1;dashed=1;fontSize=23;strokeWidth=3;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="341" y="956" width="106.5" height="106.5" as="geometry" />
+          <mxGeometry x="1001" y="1193" width="106.5" height="106.5" as="geometry" />
         </mxCell>
         <mxCell id="EmAf7KWgvtEIyddOnDGJ-39" value="Github" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-128.png;rounded=1;dashed=1;fontSize=23;strokeWidth=3;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="788" y="930" width="128" height="128" as="geometry" />
+          <mxGeometry x="1448" y="1167" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="EmAf7KWgvtEIyddOnDGJ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=23;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeWidth=3;" edge="1" parent="1" source="EmAf7KWgvtEIyddOnDGJ-41" target="EmAf7KWgvtEIyddOnDGJ-44">
           <mxGeometry relative="1" as="geometry" />
@@ -53,6 +53,9 @@
         </mxCell>
         <mxCell id="EmAf7KWgvtEIyddOnDGJ-46" value="" style="sketch=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cluster;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="465.62" y="431" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="EmAf7KWgvtEIyddOnDGJ-51" value="云存储系统" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=23;strokeWidth=3;fillColor=#e1d5e7;align=left;verticalAlign=top;spacingTop=15;spacing=2;spacingLeft=15;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="912" y="-67" width="1155" height="992" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
