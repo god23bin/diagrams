@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T15:12:13.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="16.5.2" etag="e60xbIDDh_49k1adAXc3" type="github"><diagram id="tJrMaq4Gj0xztQ0cAVNM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-12T15:18:53.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="MdUjCU6YuS3NoPB5p5m0" version="16.5.2" type="github">
+  <diagram id="tJrMaq4Gj0xztQ0cAVNM" name="第 1 页">
+    <mxGraphModel dx="866" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wVF9vbEK33-nx9hLlRGk-3" value="运行时的内存区域划分" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#eeeeee;strokeColor=#36393d;horizontal=1;fontStyle=1;verticalAlign=top;fontSize=23;spacingTop=17;" vertex="1" parent="1">
+          <mxGeometry x="15" y="7" width="810" height="456" as="geometry" />
+        </mxCell>
+        <mxCell id="wVF9vbEK33-nx9hLlRGk-4" value="方法区（Method Area）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;shadow=0;strokeColor=#82b366;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="58" y="278" width="335" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="wVF9vbEK33-nx9hLlRGk-5" value="堆（Heap）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;shadow=0;strokeColor=#82b366;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="415" y="278" width="353" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="wVF9vbEK33-nx9hLlRGk-6" value="虚拟机栈（VM Stack）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;shadow=0;fontSize=16;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="61" y="85" width="189" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="wVF9vbEK33-nx9hLlRGk-7" value="本地方法栈（Native Method Stack）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;shadow=0;fontSize=16;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="274" y="85" width="335" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="wVF9vbEK33-nx9hLlRGk-8" value="程序计数器&lt;br&gt;（PC Register）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;shadow=0;fontSize=16;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="633" y="89" width="132" height="171" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
