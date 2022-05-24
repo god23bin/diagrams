@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T14:49:13.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.0.2" etag="TM14PXRwMYZ7kiJ0CMQK" type="github"><diagram id="xOZjMsQYB_yNkb3kxlfm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-24T15:33:57.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="8cn0-0AYikxZbGlTwxkc" version="18.0.2" type="github">
+  <diagram id="xOZjMsQYB_yNkb3kxlfm" name="第 1 页">
+    <mxGraphModel dx="1701" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;curved=1;strokeWidth=3;entryX=0.124;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tE3lUEZqpYSCsbtJbhal-1" target="tE3lUEZqpYSCsbtJbhal-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-1" value="线程A" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;strokeWidth=3;" edge="1" parent="1" source="tE3lUEZqpYSCsbtJbhal-3" target="tE3lUEZqpYSCsbtJbhal-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-3" value="线程B" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.876;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;strokeWidth=3;" edge="1" parent="1" source="tE3lUEZqpYSCsbtJbhal-4" target="tE3lUEZqpYSCsbtJbhal-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-4" value="线程C" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-5" value="共享资源（变量、方法）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;fontSize=20;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-9" value="同时操作，即并发执行" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-10" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;public void buy() {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; ticketSurplus = &lt;font color=&quot;#ff0000&quot;&gt;ticketSurplus - 1&lt;/font&gt;;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; System.out.println(ticketSurplus);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=0;shadow=1;comic=1;spacingLeft=14;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-137" y="520" width="483" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;strokeWidth=3;" edge="1" parent="1" source="tE3lUEZqpYSCsbtJbhal-11" target="tE3lUEZqpYSCsbtJbhal-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-11" value="&lt;font color=&quot;#007fff&quot;&gt;A&lt;/font&gt;执行这里，拿到ticketSurplus为10&lt;br&gt;减1变成9，但是还没赋值" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="429" y="500" width="400" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;strokeWidth=3;" edge="1" parent="1" source="tE3lUEZqpYSCsbtJbhal-13" target="tE3lUEZqpYSCsbtJbhal-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-13" value="&lt;font color=&quot;#007fff&quot;&gt;B&lt;/font&gt;也进来，因为A还没赋值&lt;br&gt;所以拿到ticketSurplus为10，减1变成9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="425" y="616" width="445" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-15" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;public void buy() {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;font color=&quot;#ff0000&quot;&gt;ticketSurplus =&lt;/font&gt; ticketSurplus - 1;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; System.out.println(ticketSurplus);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=0;shadow=1;comic=1;spacingLeft=14;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-137" y="725" width="483" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.009;entryY=0.43;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=20;fontColor=#333333;strokeWidth=3;" edge="1" parent="1" source="tE3lUEZqpYSCsbtJbhal-16" target="tE3lUEZqpYSCsbtJbhal-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-16" value="此时赋值，A中的ticketSurplus为9，输出9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="425" y="725" width="472" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=20;fontColor=#333333;strokeWidth=3;" edge="1" parent="1" source="tE3lUEZqpYSCsbtJbhal-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.2352941176471" y="803.6470588235295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-17" value="此时赋值，B中的ticketSurplus为9，输出9" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="425" y="803" width="472" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-20" value="&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;public void buy() {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; ticketSurplus = ticketSurplus - 1;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;nbsp; &amp;nbsp; System.out.println(ticketSurplus);&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=none;rounded=0;shadow=1;comic=1;spacingLeft=14;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-137" y="930" width="483" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontSize=20;fontColor=#333333;strokeWidth=3;" edge="1" parent="1" source="tE3lUEZqpYSCsbtJbhal-21" target="tE3lUEZqpYSCsbtJbhal-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tE3lUEZqpYSCsbtJbhal-21" value="&lt;font color=&quot;#007fff&quot;&gt;C&lt;/font&gt;这时执行，拿到ticketSurplus为9&lt;br&gt;减1变成8，赋值，输出8" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="425" y="972.5" width="400" height="76" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
